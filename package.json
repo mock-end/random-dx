@@ -1,6 +1,6 @@
 {
   "name": "random-dx",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Return a value equal to the roll of a die.",
   "main": "index.js",
   "scripts": {
